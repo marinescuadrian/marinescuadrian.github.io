@@ -72,12 +72,13 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 		</ul>
 	</div>
 </section>
+<hr/>
 <section class="row">
 	<header class="col-md-3">
 		<h3 style="text-transform:uppercase;color:gray">Certifications</h3>
 	</header>
 	<div class="col-md-9">
-		<div class="row">
+		<div class="row" style="margin-top: 20px;">
 			<div class="col-md-4">
 				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_english.jpg" alt="Advanced English Level Certificate" />				
 			</div>
@@ -88,7 +89,7 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_m4.jpg" alt="Collage Certificate level 4" />
 			</div>
 		</div>
-		<div class="row">
+		<div class="row" style="margin-top: 20px; margin-bottom: 20px;">
 			<div class="col-md-3">
 				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_europass.jpg" alt="Europenean Teaching Certificate" />
 			</div>
@@ -104,12 +105,13 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 		</div>
 	</div>
 </section>
+<hr/>
 <section class="row">
 	<header class="col-md-3">
 		<h3 style="text-transform:uppercase;color:gray">Achievements</h3>
 	</header>
 	<div class="col-md-9">
-		<div class="row">
+		<div class="row" style="margin-top: 20px;">
 			<div class="col-md-4">
 				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_best_business.jpg" alt="Award for Best Business Idea" />				
 			</div>
