@@ -80,39 +80,34 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 	<div class="col-md-9">
 		<div class="row" style="margin-top: 20px;">
 			<div class="col-md-4">
-				<a href="{{site.url}}/img/resume/diploma_school_english.jpg" class="ltbox">
+				<a href="{{site.url}}/img/resume/diploma_school_english.jpg" class="ltbox" title="Advanced English Level Certificate">
 					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_english.jpg" alt="Advanced English Level Certificate" />				
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="{{site.url}}/img/resume/diploma_school_informatics.jpg" class="ltbox">
+				<a href="{{site.url}}/img/resume/diploma_school_informatics.jpg" class="ltbox" title="Advanced Informatics Skills">
 					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_informatics.jpg" alt="Advanced Informatics Skills" />				
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="{{site.url}}/img/resume/diploma_school_m4.jpg" class="ltbox">
+				<a href="{{site.url}}/img/resume/diploma_school_m4.jpg" class="ltbox" title="Collage Certificate level 4">
 					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_m4.jpg" alt="Collage Certificate level 4" />
 				</a>
 			</div>
 		</div>
-		<div class="row" style="margin-top: 20px; margin-bottom: 20px;">
-			<div class="col-md-3">
-				<a href="{{site.url}}/img/resume/diploma_school_europass.jpg" class="ltbox">
-					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_europass.jpg" alt="Europenean Teaching Certificate" />
-				</a>
-			</div>
-			<div class="col-md-3">
-				<a href="{{site.url}}/img/resume/diploma_school_romanian.jpg" class="ltbox">
+		<div class="row" style="margin-top: 20px; margin-bottom: 20px;">			
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/diploma_school_romanian.jpg" class="ltbox" title="Advanced Romanian Level Certificate">
 					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_romanian.jpg" alt="Advanced Romanian Level Certificate" />
 				</a>
 			</div>
-			<div class="col-md-3">
-				<a href="{{site.url}}/img/resume/diploma_highschool.jpg" class="ltbox">
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/diploma_highschool.jpg" class="ltbox" title="Highschool Certificate">
 					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_highschool.jpg" alt="Highschool Certificate" />
 				</a>
 			</div>
-			<div class="col-md-3">
-				<a href="{{site.url}}/img/resume/diploma_school_teaching_english.jpg" class="ltbox">
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/diploma_school_teaching_english.jpg" class="ltbox" title="English Teaching Certificate">
 					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_teaching_english.jpg" alt="English Teaching Certificate" />
 				</a>
 			</div>
@@ -127,13 +122,103 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 	<div class="col-md-9">
 		<div class="row" style="margin-top: 20px;">
 			<div class="col-md-4">
-				<a href="{{site.url}}/img/resume/award_best_business.jpg" class="ltbox">
+				<a href="{{site.url}}/img/resume/diploma_school_europass.jpg" class="ltbox" title="Europenean Teaching Certificate">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_europass.jpg" alt="Europenean Teaching Certificate" />
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_best_business.jpg" class="ltbox" title="Award for Best Business Idea">
 					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_best_business.jpg" alt="Award for Best Business Idea" />				
 				</a>
 			</div>
 			<div class="col-md-4">
-				<a href="{{site.url}}/img/resume/certificate_grepit.jpg" class="ltbox">
+				<a href="{{site.url}}/img/resume/certificate_grepit.jpg" class="ltbox" title="Volunteering at GrepIT">
 					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/certificate_grepit.jpg" alt="Volunteering at GrepIT" />				
+				</a>
+			</div>
+		</div>
+		<div class="row" style="margin-top: 20px; margin-bottom: 20px;">			
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_informatics_april_2016.jpg" class="ltbox" title="Informatics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_informatics_april_2016.jpg" alt="Informatics Contest Award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_informatics_april_2017.jpg" class="ltbox" title="Informatics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_informatics_april_2017.jpg" alt="Informatics Contest Award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_informatics_feb_2015.jpg" class="ltbox" title="Informatics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_informatics_feb_2015.jpg" alt="Informatics Contest Award" />				
+				</a>
+			</div>
+		</div>
+		<div class="row" style="margin-top: 20px; margin-bottom: 20px;">			
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_informatics_feb_2016_1.jpg" class="ltbox" title="Informatics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_informatics_feb_2016_1.jpg" alt="Informatics Contest Award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_informatics_feb_2016_2.jpg" class="ltbox" title="Informatics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_informatics_feb_2016_2.jpg" alt="Informatics Contest Award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_informatics_june_2016.jpg" class="ltbox" title="Informatics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_informatics_june_2016.jpg" alt="Informatics Contest Award" />				
+				</a>
+			</div>
+		</div>
+		<div class="row" style="margin-top: 20px; margin-bottom: 20px;">			
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_informatics_march_2015.jpg" class="ltbox" title="Informatics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_informatics_march_2015.jpg" alt="Informatics Contest Award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_informatics_may_2016.jpg" class="ltbox" title="Informatics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_informatics_may_2016.jpg" alt="Informatics Contest Award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_mathematics_1.jpg" class="ltbox" title="Mathematics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_mathematics_1.jpg" alt="Mathematics Contest Award" />				
+				</a>
+			</div>
+		</div>
+		<div class="row" style="margin-top: 20px; margin-bottom: 20px;">			
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_mathematics_2.jpg" class="ltbox" title="Mathematics Contest Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_mathematics_2.jpg" alt="Mathematics Contest Award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_school.jpg" class="ltbox" title="Best Student Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_school.jpg" alt="Best Student Award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/certificate_bullying.jpg" class="ltbox" title="No bullying workshop certificate">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/certificate_bullying.jpg" alt="No bullying workshop certificate" />				
+				</a>
+			</div>
+		</div>
+		<div class="row" style="margin-top: 20px; margin-bottom: 20px;">			
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_biology.jpg" class="ltbox" title="Biology award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_biology.jpg" alt="Biology award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_chemistry.jpg" class="ltbox" title="Chemestry Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_chemistry.jpg" alt="Chemestry Award" />				
+				</a>
+			</div>
+			<div class="col-md-4">
+				<a href="{{site.url}}/img/resume/award_religion.jpg" class="ltbox" title="Religion Award">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_religion.jpg" alt="Religion Award" />				
 				</a>
 			</div>
 		</div>
