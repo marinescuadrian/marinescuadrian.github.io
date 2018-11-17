@@ -2,8 +2,8 @@
 layout: post
 title:  My experience with Cryptocurrency mining
 date:   2017-07-27 15:30:00
-categories: Cryptocurrency, Mining, Blockchain, Personal, Review
-tags: Cryptocurrency, Mining, Blockchain, Personal, Review
+categories: Cryptocurrency Mining Blockchain Personal Review
+tags: Cryptocurrency Mining Blockchain Personal Review
 ---
 
 Today, I am going to write an article about my personal experience with cryptocurrency mining. If that sound crazy to you, well...it isn't. You can really earn money just by letting your computer/s switched on and connected to the Internet. The most important things in this business are video cards, not CPU or RAM.
@@ -32,7 +32,7 @@ I achieved almost 30Mh/s per video card, summing a total of ~120Mh/s, producing 
 
 <img class="img-responsive image-center thumbnail" src="{{site.url}}/img/mining/2_pcs_mining.jpg" alt="2 PCs Mining Cryptocurrency" />
 
-If you mine solo, it's not that important the high hashrate as the luck...Yes, you can have 500Mh/s and find a block in 2-3 days or 2-3weeks. So, if you don't want to waste the hashpower, just join a pool. There are a lot out there: ethermine (1% fee with PPLNS payout scheme), ethpool (1%fee, paid after you solve a block, that means when you each ~5ETH in your account), dwarfpool, etc.
+If you mine solo, it's not that important the high hashrate as the luck...Yes, you can have 500Mh/s and find a block in 2-3 days or 2-3 weeks. So, if you don't want to waste the hashpower, just join a pool. There are a lot out there: ethermine (1% fee with PPLNS payout scheme), ethpool (1%fee, paid after you solve a block, that means when you each ~5ETH in your account), dwarfpool, etc.
 
 **What is a pool?**
 

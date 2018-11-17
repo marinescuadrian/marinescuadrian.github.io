@@ -38,7 +38,7 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>SCAND SA - Drobeta-Turnu-Severin, Mehedinti, Romania</h4>
+				<h4>Freelancer Inc.</h4>
 				<h5>Present</h5>
 				<p>Working as a Freelancer</p>
 			</li>
