@@ -80,27 +80,41 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 	<div class="col-md-9">
 		<div class="row" style="margin-top: 20px;">
 			<div class="col-md-4">
-				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_english.jpg" alt="Advanced English Level Certificate" />				
+				<a href="{{site.url}}/img/resume/diploma_school_english.jpg" class="ltbox">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_english.jpg" alt="Advanced English Level Certificate" />				
+				</a>
 			</div>
 			<div class="col-md-4">
-				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_informatics.jpg" alt="Advanced Informatics Skills" />				
+				<a href="{{site.url}}/img/resume/diploma_school_informatics.jpg" class="ltbox">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_informatics.jpg" alt="Advanced Informatics Skills" />				
+				</a>
 			</div>
 			<div class="col-md-4">
-				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_m4.jpg" alt="Collage Certificate level 4" />
+				<a href="{{site.url}}/img/resume/diploma_school_m4.jpg" class="ltbox">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_m4.jpg" alt="Collage Certificate level 4" />
+				</a>
 			</div>
 		</div>
 		<div class="row" style="margin-top: 20px; margin-bottom: 20px;">
 			<div class="col-md-3">
-				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_europass.jpg" alt="Europenean Teaching Certificate" />
+				<a href="{{site.url}}/img/resume/diploma_school_europass.jpg" class="ltbox">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_europass.jpg" alt="Europenean Teaching Certificate" />
+				</a>
 			</div>
 			<div class="col-md-3">
-				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_romanian.jpg" alt="Advanced Romanian Level Certificate" />
+				<a href="{{site.url}}/img/resume/diploma_school_romanian.jpg" class="ltbox">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_romanian.jpg" alt="Advanced Romanian Level Certificate" />
+				</a>
 			</div>
 			<div class="col-md-3">
-				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_highschool.jpg" alt="Highschool Certificate" />
+				<a href="{{site.url}}/img/resume/diploma_highschool.jpg" class="ltbox">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_highschool.jpg" alt="Highschool Certificate" />
+				</a>
 			</div>
 			<div class="col-md-3">
-				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_teaching_english.jpg" alt="English Teaching Certificate" />
+				<a href="{{site.url}}/img/resume/diploma_school_teaching_english.jpg" class="ltbox">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/diploma_school_teaching_english.jpg" alt="English Teaching Certificate" />
+				</a>
 			</div>
 		</div>
 	</div>
@@ -113,10 +127,14 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 	<div class="col-md-9">
 		<div class="row" style="margin-top: 20px;">
 			<div class="col-md-4">
-				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_best_business.jpg" alt="Award for Best Business Idea" />				
+				<a href="{{site.url}}/img/resume/award_best_business.jpg" class="ltbox">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/award_best_business.jpg" alt="Award for Best Business Idea" />				
+				</a>
 			</div>
 			<div class="col-md-4">
-				<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/certificate_grepit.jpg" alt="Volunteering at GrepIT" />				
+				<a href="{{site.url}}/img/resume/certificate_grepit.jpg" class="ltbox">
+					<img class="img-responsive image-center thumbnail" src="{{site.url}}/img/resume/certificate_grepit.jpg" alt="Volunteering at GrepIT" />				
+				</a>
 			</div>
 		</div>
 	</div>
