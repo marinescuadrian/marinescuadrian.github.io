@@ -10,10 +10,10 @@ gems: [jekyll-paginate]
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Adrian Marinescu Blog'
-tagline:          'Adrian Marinescu Personal Blog'
-description:      'Adrian Marinescu Personal Blog'
-url:              'http://192.168.1.11:4000'
+title:            'Adrian Marinescu`s Blog'
+tagline:          'Adrian Marinescu`s Personal Blog'
+description:      'Adrian Marinescu`s Personal Blog'
+url:              'https://marinescuadrian.github.io'
 baseurl:          ''
 
 # Navigation
