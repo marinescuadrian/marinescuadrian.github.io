@@ -13,7 +13,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Adrian Marinescu'
 tagline:          'Personal Blog'
 description:      'Adrian Marinescu`s Personal Blog'
-url:              'https://marinescuadrian.github.io'
+url:              'https://adrian.marinescu.ch'
 baseurl:          ''
 
 # Navigation
