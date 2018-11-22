@@ -39,7 +39,7 @@ linkedin:       'https://www.linkedin.com/in/adrian-marinescu/'
 twitter:        'https://twitter.com/marinescuadi'
 
 # Google Analytics
-gahandler: 'UA-XXXXXXXX-X'
+gahandler: 'UA-129658750-1'
 
 #if footersvg is 'true' the social media links will be shown top on the copy right in the footer
 footersvg: 'true'
