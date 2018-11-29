@@ -4,14 +4,18 @@ title: Resume
 description: Resume of Adrian Marinescu
 theme: red
 ---
+<div class="row">
+	<div class="col-12 col-lg-2 order-1 LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ro_RO" data-type="horizontal" data-theme="light" data-vanity="adrian-marinescu"><a class="LI-simple-link" href='https://ro.linkedin.com/in/adrian-marinescu?trk=profile-badge'>Adrian Marinescu</a></div>	
+	<div class="col-12 col-lg-10 order-1">
 Six years of experience in software development with Web and Databases technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
-
+		
 **Experience in Web Technology:**
 Building and Supporting web applications using PHP (CMS, MVC). Developing UI using Angular and jQuery.
 
 **Experience in Blockchain Technology:**
 Developed and auditted several Ethereum Smart Contracts, forked and optimised blockchain project also invested in several successfull ICO's.
-
+	</div>
+</div>
 <hr/>
 <section class="row">
 	<header class="col-md-3">
@@ -24,7 +28,7 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 				<p>2018-2022 - University POLITEHNICA of Bucharest</p>
 			</li>
 			<li>
-				<h4>Collage</h4>
+				<h4>College</h4>
 				<p>2014-2018 - National Pedagogical College "Stefan Odobleja"</p>
 			</li>
 		</ul>
@@ -224,3 +228,4 @@ Developed and auditted several Ethereum Smart Contracts, forked and optimised bl
 		</div>
 	</div>
 </section>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
