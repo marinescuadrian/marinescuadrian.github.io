@@ -7,13 +7,9 @@ theme: red
 <div class="row">
 	<div class="col-12 col-lg-4 order-0 LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ro_RO" data-type="horizontal" data-theme="light" data-vanity="adrian-marinescu"><a class="LI-simple-link" href='https://ro.linkedin.com/in/adrian-marinescu?trk=profile-badge'>Adrian Marinescu</a></div>	
 	<div class="col-12 col-lg-8 order-1">
-Six years of experience in software development with Web and Databases technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
-		
-<b>Experience in Web Technology:</b>
-Building and Supporting web applications using PHP (CMS, MVC). Developing UI using Angular and jQuery.
-
-<b>Experience in Blockchain Technology:</b>
-Developed and auditted several Ethereum Smart Contracts, forked and optimised blockchain project also invested in several successfull ICO's.
+Six years of experience in software development with Web and Databases technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.<br>		
+<b>Experience in Web Technology:</b> Building and Supporting web applications using PHP (CMS, MVC). Developing UI using Angular and jQuery.<br>
+<b>Experience in Blockchain Technology:</b> Developed and auditted several Ethereum Smart Contracts, forked and optimised blockchain project also invested in several successfull ICO's.
 	</div>
 </div>
 <hr/>
