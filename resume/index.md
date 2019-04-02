@@ -43,12 +43,12 @@ Six years of experience in software development with Web and Databases technolog
 				<p>Working as a Freelancer</p>
 			</li>
 			<li>
-				<h4>SCAND SA - Drobeta-Turnu-Severin, Mehedinti, Romania</h4>
+				<a target="_blank" href="https://scand.ro"><h4>SCAND SA - Drobeta-Turnu-Severin, Mehedinti, Romania</h4></a>
 				<h5>February 2016 - February 2018</h5>
 				<p>Worked as Operations Team Leader</p>
 			</li>
 			<li>
-				<h4>SCAND SA - Drobeta-Turnu-Severin, Mehedinti, Romania</h4>
+				<a target="_blank" href="https://scand.ro"><h4>SCAND SA - Drobeta-Turnu-Severin, Mehedinti, Romania</h4></a>
 				<h5>February 2015 - February 2016</h5>
 				<p>Worked as Network Administrator</p>
 				<ul>
@@ -59,7 +59,7 @@ Six years of experience in software development with Web and Databases technolog
 				</ul>
 			</li>
 			<li>
-				<h4>SCAND SA - Drobeta-Turnu-Severin, Mehedinti, Romania</h4>
+				<a target="_blank" href="https://scand.ro"><h4>SCAND SA - Drobeta-Turnu-Severin, Mehedinti, Romania</h4></a>
 				<h5>February 2010 - February 2015</h5>
 				<p>Worked as Senior Programmer</p>
 				<ul>
